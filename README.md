@@ -1,0 +1,1 @@
+This data is collected through the European Climate Assessment (ECA). The ECA collects data from many sources and integrates them into accessible files in the public domain. ClimateWins is seeking to analyze this data for the amount of days people are able to participate in outdoor activities.
